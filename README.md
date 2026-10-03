@@ -152,19 +152,14 @@ The webpage was accessed using the EC2 public IP address.
 
 Shows the `pratik-vpc` configuration.
 
-![VPC](01-vpc.png)
-
 ### 2. Public Subnet
 
 Shows the `pratik-public-subnet` configuration.
 
-![Subnet](02-subnet.png)
 
 ### 3. Internet Gateway
 
 Shows the Internet Gateway attached to the VPC.
-
-![Internet Gateway](03-internet-gateway.png)
 
 ### 4. Route Table
 
@@ -174,19 +169,9 @@ Shows the route:
 0.0.0.0/0 → Internet Gateway
 ```
 
-![Route Table](04-route-table.png)
-
-### 5. Nginx
-
-Shows Nginx running successfully.
-
-![Nginx](08-nginx.png)
-
-### 6. Live Website
+### 5. Live Website
 
 Shows the custom webpage deployed on the EC2 instance.
-
-![Live Website](09-live-website.png)
 
 ## What I Learned
 
